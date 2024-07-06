@@ -31,7 +31,7 @@ The **best model from hdc_v2** was successfully integrated to the customized YOL
 * If the accuracy of the custom YOLO detection is satisfactory, the model will be integrated with HDC_v2 into HDD_v2. 
 * The integrated model will be implemented to a real-time module.
 
-#### [Current stage of the custom YOLO detector](https://github.com/sungsujaing/Happy_Dog_Detection/blob/master/custom_darkflow/Custom_YOLO_classifiable_dog_detection.ipynb) (with 450 images and 30 epochs training)
+#### [Current stage of the custom YOLO detector](https://github.com/alexbrowntiger/Happy_Dog_Detection/blob/master/custom_darkflow/Custom_YOLO_classifiable_dog_detection.ipynb) (with 450 images and 30 epochs training)
 <p align="center">
 <img src="Readme_images/custom_YOLO_output_example.png" width="650"></p>
 </p>
@@ -85,6 +85,6 @@ Somewhat agreeable results.
 <img src="Readme_images/new_image_result_hdc_v2.png" width="700"></p>
 </p>
 
-[1]: https://github.com/sungsujaing/Happy_Dog_Detection/blob/master/HappyDogClassifier_v1.ipynb
-[2]: https://github.com/sungsujaing/Happy_Dog_Detection/blob/master/HappyDogClassifier_v2.ipynb
-[3]: https://github.com/sungsujaing/Happy_Dog_Detection/blob/master/custom_darkflow/HappyDogDetector_v1.ipynb
+[1]: https://github.com/alexbrowntiger/Happy_Dog_Detection/blob/master/HappyDogClassifier_v1.ipynb
+[2]: https://github.com/alexbrowntiger/Happy_Dog_Detection/blob/master/HappyDogClassifier_v2.ipynb
+[3]: https://github.com/alexbrowntiger/Happy_Dog_Detection/blob/master/custom_darkflow/HappyDogDetector_v1.ipynb
